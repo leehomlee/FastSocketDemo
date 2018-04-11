@@ -1,0 +1,11 @@
+C:\Users\leehom\Downloads\FastSocket.Net-1.0.0.6\FastSocket.SocketBase\bin\Debug\FastSocket.SocketBase.xml
+C:\Users\leehom\Downloads\FastSocket.Net-1.0.0.6\FastSocket.SocketBase\bin\Debug\FastSocket.SocketBase.dll
+C:\Users\leehom\Downloads\FastSocket.Net-1.0.0.6\FastSocket.SocketBase\bin\Debug\FastSocket.SocketBase.pdb
+C:\Users\leehom\Downloads\FastSocket.Net-1.0.0.6\FastSocket.SocketBase\obj\Debug\FastSocket.SocketBase.dll
+C:\Users\leehom\Downloads\FastSocket.Net-1.0.0.6\FastSocket.SocketBase\obj\Debug\FastSocket.SocketBase.pdb
+D:\File\FastSocket\FastSocket.SocketBase\bin\Debug\FastSocket.SocketBase.xml
+D:\File\FastSocket\FastSocket.SocketBase\bin\Debug\FastSocket.SocketBase.dll
+D:\File\FastSocket\FastSocket.SocketBase\bin\Debug\FastSocket.SocketBase.pdb
+D:\File\FastSocket\FastSocket.SocketBase\obj\Debug\FastSocket.SocketBase.csprojResolveAssemblyReference.cache
+D:\File\FastSocket\FastSocket.SocketBase\obj\Debug\FastSocket.SocketBase.dll
+D:\File\FastSocket\FastSocket.SocketBase\obj\Debug\FastSocket.SocketBase.pdb
